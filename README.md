@@ -1,4 +1,7 @@
-# Bug Reporting & Discussion Repository
+![untitled](https://user-images.githubusercontent.com/43651265/204201724-30721572-45c9-4586-8a96-5180ba0cf406.svg)
+
+**Bug Reporting & Discussion Repository**
+
 This is the Meadows Network's Report Repo! Where you can open an issue for network problems / bugs that need to be reported.
 
 Note that all issues reported must be clearly documented, otherwise it will be closed without notice.
